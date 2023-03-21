@@ -5,7 +5,7 @@
  *   firstName: String,
  *   location: String
  * }[]} students - The list of students.
- * @author Bezaleel Olakunori <https://github.com/B3zaleel>
+ * @author Yishak Kibru <https://github.com/yishakk>
  * @returns
  */
 export default function getListStudentIds(students) {
